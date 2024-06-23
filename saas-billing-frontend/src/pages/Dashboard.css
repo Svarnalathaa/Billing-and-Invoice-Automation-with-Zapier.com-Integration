@@ -1,0 +1,21 @@
+.dashboard-container {
+    padding: 2rem;
+  }
+  
+  .usage-details,
+  .billing-details {
+    margin: 1rem 0;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .invoice-button {
+    padding: 0.5rem 1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+  }
+  
